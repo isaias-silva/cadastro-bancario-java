@@ -18,6 +18,7 @@ public class ContaTerminal {
         System.out.println("informe o seu saldo:");
         this.saldo = sc.nextFloat();
         this.exibe();
+
     }
 
     private void exibe() {
